@@ -1,1 +1,2 @@
-here am i
+#!/bin/bash           
+chown betty
