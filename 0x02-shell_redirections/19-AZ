@@ -1,2 +1,2 @@
 #!/bin/bash
-sed -i 'S/A/Z/g s/c/e/g' input.txt
+tr "A" "Z" | tr "c" "e"
